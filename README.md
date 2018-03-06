@@ -1,2 +1,2 @@
 # myProject
-Created for learning purpose
+This Project is Created for learning purpose
